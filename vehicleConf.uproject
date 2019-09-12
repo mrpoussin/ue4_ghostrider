@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PhysXVehicles",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "JSONParser",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8eda577c5b594d6b990f91b8dec8a014"
+		},
+		{
+			"Name": "KantanCharts",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/89bd18db011b4bd19606db2e31020f13"
+		},
+		{
+			"Name": "ObjectDeliverer",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c2612cff517c48bca7dd080299d97ca8"
+		},
+		{
+			"Name": "SocketClient",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5d4ddd5493ce4d2295ef9be6c67eff82"
+		}
+	]
+}
