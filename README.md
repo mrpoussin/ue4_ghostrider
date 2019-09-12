@@ -1,6 +1,6 @@
 # Ghost Rider simulation
 
-![Banner image](/readme-assets/promogr4-small.jpg)
+![Banner image](/readme-assets/promogr4-small.jpg?raw=true "Banner")
 
 ## Preprequisits
 
