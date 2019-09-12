@@ -1,5 +1,7 @@
 # Ghost Rider simulation
 
+![Banner image](readme-assets/promogr4-small.jpg)
+
 ## Preprequisits
 
 1. Install VSCode
