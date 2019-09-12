@@ -1,12 +1,21 @@
-# Ghost Rider simulation
+# GhostRider simulation
 
-![Banner image](/readme-assets/promogr4-small.jpg?raw=true "Banner")
+![Banner image](readme-assets/promogr4-small.jpg?raw=true "Banner")
 
 ## Preprequisits
 
 1. Install VSCode
 2. Install UE4 Engine
 3. Run UE4 Engine at least once
+
+### UE4 Marketplace libraries
+
+GhostRider uses a few paid library in order to run. If you want to be able to run source you'll need to buy them as well.
+
+1. [ObjectDeliverer](https://www.unrealengine.com/marketplace/en-US/slug/objectdeliverer)
+2. [Simple UDP TCP Socket Client](https://www.unrealengine.com/marketplace/en-US/assets?keywords=simple%20udp%20tcp)
+3. [JSONParser](https://www.unrealengine.com/marketplace/en-US/slug/jsonparser)
+4. [Kantan Charts](https://www.unrealengine.com/marketplace/en-US/slug/kantan-charts)
 
 ## Setup
 
